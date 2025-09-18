@@ -51,14 +51,14 @@ Welcome to my GitHub page! I am a Professor at the **College of Electronic Infor
 
 ### Representative Publications
 A total of ~100 articles have been published in journals and conference proceedings. Below are selected recent works (sorted by publication year):
-1. Li Fenglian*, ZHANG Yuyu, WANG Weili, et al. Enhanced Multilayer Extreme Learning Machine for Imbalanced Dataset: Optimized Cost Regulation and Hierarchical Parameter Adaptation. *Information Sciences*, 2025, 719, 122426.  
-2. Jun Luo, Fenglian Li*, Jiangli Jiao. A dynamic multiobjective recommendation method based on soft actor-critic with discrete actions. *Journal of King Saud University Computer and Information Sciences*, 2025, 37:1.  
-3. Teng Wang, Wenhui Jia, Fenglian Li*, Xirui Liu, Xueying Zhang*, Fengyun Hu*, Multi-dimensional feature extraction of EEG signal and its application in stroke classification. *Scientific Reports*, 2025, 15:19589.  
-4. Peng Du, Fenglian Li*, Jianli Shao. Multi-agent Reinforcement Learning Clustering Algorithm Based on Silhouette Coefficient. *Neurocomputing*, 2024, 596:127901.  
-5. Zelin Wu, Xueying Zhang, Fenglian Li*, et al. A feature-enhanced network for stroke lesion segmentation from brain MRI images. *Computers in Biology and Medicine*, 2024: 108326.  
-6. Zelin Wu, Xueying Zhang*, Fenglian Li*, Suzhe Wang, Jiaying Li. TransRender: a transformer-based boundary rendering segmentation network for stroke lesions. *Frontiers in Neuroscience*, 2023, 17: 1259677.  
+1. Li Fenglian*, ZHANG Yuyu, WANG Weili, et al. Enhanced Multilayer Extreme Learning Machine for Imbalanced Dataset: Optimized Cost Regulation and Hierarchical Parameter Adaptation. *Information Sciences*, 2025, 719, 122426. [DOI: 10.1016/j.ins.2025.122426](https://doi.org/10.1016/j.ins.2025.122426)  
+2. Jun Luo, Fenglian Li*, Jiangli Jiao. A dynamic multiobjective recommendation method based on soft actor-critic with discrete actions. *Journal of King Saud University Computer and Information Sciences*, 2025, 37:1. [DOI: 10.1007/s44443-025-00016-3](https://doi.org/10.1007/s44443-025-00016-3)  
+3. Teng Wang, Wenhui Jia, Fenglian Li*, Xirui Liu, Xueying Zhang*, Fengyun Hu*, Multi-dimensional feature extraction of EEG signal and its application in stroke classification. *Scientific Reports*, 2025, 15:19589. [DOI: 10.1038/s41598-025-04756-0](https://doi.org/10.1038/s41598-025-04756-0)  
+4. Peng Du, Fenglian Li*, Jianli Shao. Multi-agent Reinforcement Learning Clustering Algorithm Based on Silhouette Coefficient. *Neurocomputing*, 2024, 596:127901. [DOI: 10.1016/j.neucom.2024.127901](https://doi.org/10.1016/j.neucom.2024.127901)  
+5. Zelin Wu, Xueying Zhang, Fenglian Li*, et al. A feature-enhanced network for stroke lesion segmentation from brain MRI images. *Computers in Biology and Medicine*, 2024: 108326. [DOI: 10.1016/j.compbiomed.2024.108326](https://doi.org/10.1016/j.compbiomed.2024.108326)  
+6. Zelin Wu, Xueying Zhang*, Fenglian Li*, Suzhe Wang, Jiaying Li. TransRender: a transformer-based boundary rendering segmentation network for stroke lesions. *Frontiers in Neuroscience*, 2023, 17: 1259677. [DOI: 10.3389/fnins.2023.1259677](https://doi.org/10.3389/fnins.2023.1259677)  
 7. Teng Wang, Fenglian Li*, Xueying Zhang, Lixia Huang, Wenhui Jia. A 1D-CNN prediction model for stroke classification based on EEG signal. In *2022 the 8th International Conference on Communication and Information Processing (ICCIP 2022)*, Beijing, China. ACM, 2022. [DOI: 10.1145/3571662.3571695](https://doi.org/10.1145/3571662.3571695)  
-8. Fenglian Li*, Syed Nisar Yousaf Sherazi, Yan Zhang, Zelin Wu. A new Multi-scale Dilated deep ResNet model for Classification of Lung Nodules in CT images. In *2021 the 7th International Conference on Communication and Information Processing (ICCIP 2021)*, Beijing, China. ACM, 2021. [DOI: 10.1145/3507971.3507988](https://doi.org/10.1145/3507971.3507988)  
+8. Fenglian Li*, Syed Nisar Yousaf Sherazi, Yan Zhang, Zelin Wu. A new Multi-scale Dilated deep ResNet model for Classification of Lung Nodules in CT images. In *2021 the 7th International Conference on Communication and Information Processing (ICCIP 2021)*, Beijing, China. ACM, 2021. [DOI: 10.1145/3507971.3507988](https://doi.org/10.1145/3507971.3507988)
 
 
 ## 🚀 Hosted Projects
@@ -79,6 +79,8 @@ A total of ~100 articles have been published in journals and conference proceedi
    *Research on the Coal Mine Water Inrush Prediction Information System Based on Data Fusion and its Realization*  
 5. **Shanxi College Key Discipline Construction Project** (2011.1 - 2015.12)  
    *Research on Data Fusion Technology of Coal Mine Belt Transportation System*  
+6. **Shanxi Science and Technology Cooperation & Exchange Special Project (Regional Cooperation)** (2024.1 - 2026.12)  
+   *Safety Assessment Method for New Energy Batteries Based on High-Throughput Computing and Reinforcement Learning Training*
 
 
 ## 🤝 Collaboration & Contact
